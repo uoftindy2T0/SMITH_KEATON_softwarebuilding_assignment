@@ -1,0 +1,109 @@
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:"26" has been sent successfully!
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+ERROR:root:message must be of type "str".
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 192, in notify_done
+    data=message.encode(encoding='utf-8'))
+         ^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'encode'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 115, in compute_analysis
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 151, in plot_data
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 151, in plot_data
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 151, in plot_data
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 151, in plot_data
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 151, in plot_data
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 151, in plot_data
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+ERROR:root:message must be of type "str".
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 192, in notify_done
+    data=message.encode(encoding='utf-8'))
+         ^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'encode'
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+ERROR:root:message must be of type "str".
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 192, in notify_done
+    data=message.encode(encoding='utf-8'))
+         ^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'encode'
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+ERROR:root:message must be of type "str".
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 192, in notify_done
+    data=message.encode(encoding='utf-8'))
+         ^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'encode'
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+ERROR:root:message must be of type "str".
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 192, in notify_done
+    data=message.encode(encoding='utf-8'))
+         ^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'encode'
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:"26" has been sent successfully!
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+ERROR:root:message must be of type "str".
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 192, in notify_done
+    data=message.encode(encoding='utf-8'))
+         ^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'encode'
+ERROR:root:message must be of type "str".
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 192, in notify_done
+    data=message.encode(encoding='utf-8'))
+         ^^^^^^^^^^^^^^
+AttributeError: 'bool' object has no attribute 'encode'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 151, in plot_data
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'
+ERROR:root:Data has not been loaded.
+Traceback (most recent call last):
+  File "C:\Users\keato\OneDrive\Documents\KeatonDocuments\DSI\SoftwareBuildingUnit\building_software-main\assignments\SMITH_KEATON_softwarebuilding_assignment\Analysis.py", line 115, in compute_analysis
+    tracks = self.dataset.json()['tracks']
+             ^^^^^^^^^^^^
+AttributeError: 'Analysis' object has no attribute 'dataset'

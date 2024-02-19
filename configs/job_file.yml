@@ -1,0 +1,12 @@
+# Spotify API Data
+dataset_url : https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+
+# Plot color, Plot title, Plot x and y axis titles, figure size (width and height), Default save path
+plot.config:
+  title: Popularity Rating of Top 10 Michael Buble Most Streamed Songs 
+  xlabel: Song Title
+  ylabel: Popularity Rating (0-100)
+  plot_color : blue
+  figure_size_width : 50
+  figure_size_height: 50
+  default_save_path : SMITH_KEATON_softwarebuilding_assignment
