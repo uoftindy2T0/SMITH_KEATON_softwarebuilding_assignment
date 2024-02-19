@@ -107,3 +107,8 @@ Traceback (most recent call last):
     tracks = self.dataset.json()['tracks']
              ^^^^^^^^^^^^
 AttributeError: 'Analysis' object has no attribute 'dataset'
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:"Finally done!" has been sent successfully!
+INFO:root:Successfully loaded https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3/top-tracks?market=CA
+INFO:root:"Analysis Complete" has been sent successfully!
